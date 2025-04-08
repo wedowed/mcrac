@@ -1,0 +1,1330 @@
+ .u-section-1 {
+  background-image: none;
+  min-height: 1127px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 1127px;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 80px 30px 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 29px 42px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 1140px;
+  height: 751px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: -835px auto 84px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 995px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 773px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 940px;
+    height: 619px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 850px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 882px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 85px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 660px;
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 474px;
+    margin-top: -508px;
+    margin-left: calc(((100% - 720px) / 2)  + -19px);
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 732px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    width: 520px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 356px;
+    margin-top: -215px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 600px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 462px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 16px 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    width: auto;
+    margin-right: 48px;
+    margin-left: 41px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 224px;
+    margin-top: -252px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+} .u-section-2 {
+  background-image: none;
+  min-height: 1356px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 452px;
+  background-image: url("images/NavyandCreamModernCompanyOrganizationalChartGraph35.7x24cm35.7x30cm40x50cm69x55cm69x80cm69x80cm29.7x21cm5.png");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 452px;
+  background-image: none;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 82px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 19px 0 0;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  min-height: 452px;
+  background-image: none;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-text-3 {
+  font-weight: 700;
+  margin: 35px 0 0;
+}
+
+.u-section-2 .u-text-4 {
+  font-size: 1.125rem;
+  margin: 51px 0 0;
+}
+
+.u-section-2 .u-image-2 {
+  min-height: 452px;
+  background-image: url("images/NavyandCreamModernCompanyOrganizationalChartGraph35.7x24cm35.7x30cm40x50cm69x55cm69x80cm69x80cm29.7x21cm7-1.png");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-3 {
+  min-height: 452px;
+  background-image: url("images/NavyandCreamModernCompanyOrganizationalChartGraph35.7x24cm35.7x30cm40x50cm69x55cm69x80cm69x80cm29.7x21cm8.png");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-2 .u-layout-cell-6 {
+  min-height: 452px;
+  background-image: none;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 30px 60px 30px 30px;
+}
+
+.u-section-2 .u-text-5 {
+  margin: 34px 0 0;
+}
+
+.u-section-2 .u-text-6 {
+  font-size: 1.125rem;
+  margin: 19px 0 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-2 {
+    min-height: 1418px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 297px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 373px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 373px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 373px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 373px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 373px;
+  }
+
+  .u-section-2 .u-layout-cell-6 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-2 {
+    min-height: 1425px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 820px;
+    margin: 0 calc(((100% - 720px) / 2)  + -62px) 60px auto;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 286px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 286px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 286px;
+  }
+
+  .u-section-2 .u-layout-cell-6 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-2 {
+    min-height: 1643px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 167px;
+    width: 540px;
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 377px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    order: 1;
+  }
+
+  .u-section-2 .u-image-2 {
+    order: 0;
+    min-height: 377px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 377px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    min-height: 2227px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 340px;
+    margin-top: -125px;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 237px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 237px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 237px;
+  }
+} .u-section-3 {
+  background-image: none;
+  min-height: 1356px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 8px;
+  margin-bottom: -7px;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 452px;
+  background-image: url("images/NavyandCreamModernCompanyOrganizationalChartGraph35.7x24cm35.7x30cm40x50cm69x55cm69x80cm69x80cm29.7x21cm14.png");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 452px;
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 82px 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 19px 0 0;
+}
+
+.u-section-3 .u-layout-cell-3 {
+  min-height: 452px;
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-3 .u-text-3 {
+  font-weight: 700;
+  margin: 35px 0 0;
+}
+
+.u-section-3 .u-text-4 {
+  font-size: 1.125rem;
+  margin: 51px 0 0;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 452px;
+  background-image: url("images/NavyandCreamModernCompanyOrganizationalChartGraph35.7x24cm35.7x30cm40x50cm69x55cm69x80cm69x80cm29.7x21cm10.png");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-3 .u-image-3 {
+  min-height: 452px;
+  background-image: url("images/NavyandCreamModernCompanyOrganizationalChartGraph35.7x24cm35.7x30cm40x50cm69x55cm69x80cm69x80cm29.7x21cm12.png");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-6 {
+  min-height: 452px;
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-6 {
+  padding: 30px 60px 30px 30px;
+}
+
+.u-section-3 .u-text-5 {
+  margin: 34px 0 0;
+}
+
+.u-section-3 .u-text-6 {
+  font-size: 1.125rem;
+  margin: 19px 0 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-3 {
+    min-height: 1418px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 297px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 373px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 373px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 373px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 373px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 373px;
+  }
+
+  .u-section-3 .u-layout-cell-6 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-3 {
+    min-height: 1417px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: -133px;
+    margin-bottom: 60px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 516px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 516px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 366px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 366px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 269px;
+  }
+
+  .u-section-3 .u-layout-cell-6 {
+    min-height: 269px;
+  }
+
+  .u-section-3 .u-container-layout-6 {
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-3 {
+    min-height: 1643px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 167px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 775px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    order: 1;
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-image-2 {
+    order: 0;
+    min-height: 549px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 403px;
+  }
+
+  .u-section-3 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-6 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-3 {
+    min-height: 2427px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: -185px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 489px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 346px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 254px;
+  }
+} .u-section-4 {
+  background-image: none;
+  min-height: 1606px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 535px;
+  background-image: url("images/NavyandCreamModernCompanyOrganizationalChartGraph35.7x24cm35.7x30cm40x50cm69x55cm69x80cm69x80cm29.7x21cm13.png");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 535px;
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 82px 0 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 19px 0 0;
+}
+
+.u-section-4 .u-layout-cell-3 {
+  min-height: 535px;
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-text-3 {
+  font-weight: 700;
+  margin: 35px 0 0;
+}
+
+.u-section-4 .u-text-4 {
+  font-size: 1.125rem;
+  margin: 51px 0 0;
+}
+
+.u-section-4 .u-image-2 {
+  min-height: 535px;
+  background-image: url("images/BlackSimpleClothingBrandLogo.png");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-4 .u-image-3 {
+  min-height: 535px;
+  background-image: url("images/BlackSimpleClothingBrandLogo1.png");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-4 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-4 .u-layout-cell-6 {
+  min-height: 535px;
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-6 {
+  padding: 30px 60px 30px 30px;
+}
+
+.u-section-4 .u-text-5 {
+  margin: 34px 0 0;
+}
+
+.u-section-4 .u-text-6 {
+  font-size: 1.125rem;
+  margin: 19px 0 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-4 {
+    min-height: 1418px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 297px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 441px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 441px;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 441px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 441px;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 441px;
+  }
+
+  .u-section-4 .u-layout-cell-6 {
+    min-height: 441px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-4 {
+    min-height: 1371px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: -336px;
+    margin-bottom: 60px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 338px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-right: 28px;
+    padding-left: 30px;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 338px;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 338px;
+  }
+
+  .u-section-4 .u-layout-cell-6 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-container-layout-6 {
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-4 {
+    min-height: 1643px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 167px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 507px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-right: 30px;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    order: 1;
+  }
+
+  .u-section-4 .u-image-2 {
+    order: 0;
+    min-height: 507px;
+  }
+
+  .u-section-4 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 507px;
+  }
+
+  .u-section-4 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-4 {
+    min-height: 2179px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: -418px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 319px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 319px;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 319px;
+  }
+} .u-section-5 {
+  background-image: none;
+  min-height: 1400px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-5 .u-layout-cell-1 {
+  min-height: 700px;
+  background-image: none;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px 55px 30px 60px;
+}
+
+.u-section-5 .u-text-1 {
+  font-weight: 700;
+  margin: 35px 0 0;
+}
+
+.u-section-5 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 51px 0 0;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 700px;
+  background-image: url("images/BlackSimpleClothingBrandLogo2.png");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 33px 30px 30px;
+}
+
+.u-section-5 .u-layout-cell-3 {
+  min-height: 700px;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-5 .u-container-layout-3 {
+  padding: 10px 30px;
+}
+
+.u-section-5 .u-image-2 {
+  width: 1139px;
+  height: 556px;
+  margin: 125px auto -20px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-5 {
+    min-height: 1418px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: 297px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 577px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 577px;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    background-position: 50% 50%;
+    min-height: 577px;
+  }
+
+  .u-section-5 .u-image-2 {
+    width: 880px;
+    height: 430px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-5 {
+    min-height: 396px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: -487px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 442px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-top: 30px;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 442px;
+  }
+
+  .u-section-5 .u-image-2 {
+    width: 660px;
+    height: 323px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-5 {
+    min-height: 1643px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: 167px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    order: 1;
+  }
+
+  .u-section-5 .u-image-1 {
+    order: 0;
+    min-height: 663px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 332px;
+  }
+
+  .u-section-5 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-image-2 {
+    width: 520px;
+    height: 254px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-5 {
+    min-height: 369px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: -643px;
+    margin-bottom: 10px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 417px;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 209px;
+  }
+
+  .u-section-5 .u-image-2 {
+    width: 320px;
+    height: 156px;
+  }
+} .u-section-6 {
+  background-image: none;
+  min-height: 605px;
+}
+
+.u-section-6 .u-shape-1 {
+  height: 269px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-6 .u-group-1 {
+  width: 977px;
+  min-height: 405px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -167px auto 60px;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 70px 30px;
+}
+
+.u-section-6 .u-text-1 {
+  margin: 0 auto;
+}
+
+.u-section-6 .u-text-2 {
+  font-size: 1.25rem;
+  width: 712px;
+  margin: 24px auto 0;
+}
+
+.u-section-6 .u-btn-1 {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  font-weight: 400;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 28px auto 0;
+  padding: 20px 50px 21px 49px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-group-1 {
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-6 {
+    min-height: 600px;
+  }
+
+  .u-section-6 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .u-section-6 .u-text-2 {
+    width: 660px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-6 .u-text-2 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-6 .u-text-1 {
+    width: auto;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+} .u-section-7 {
+  background-image: none;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 599px;
+}
+
+.u-section-7 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-7 .u-layout-cell-1 {
+  min-height: 477px;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-7 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-7 .u-text-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-7 .u-form-1 {
+  height: 334px;
+  width: 510px;
+  margin: 30px auto 0;
+}
+
+.u-section-7 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  font-weight: 700;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-7 .u-image-1 {
+  min-height: 400px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  background-image: url("images/NavyandCreamModernCompanyOrganizationalChartGraph35.7x24cm35.7x30cm40x50cm69x55cm69x80cm69x80cm29.7x21cm16.png");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 519px;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 393px;
+  }
+
+  .u-section-7 .u-form-1 {
+    width: 410px;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 330px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 243px;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-7 .u-form-1 {
+    width: 300px;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 253px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 343px;
+  }
+
+  .u-section-7 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 380px;
+  }
+
+  .u-section-7 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-image-1 {
+    min-height: 239px;
+  }
+}
